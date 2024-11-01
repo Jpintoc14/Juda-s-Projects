@@ -1,8 +1,8 @@
-🏠 ## House Price Prediction Project
+## 🏠 House Price Prediction Project
 
 Welcome to the House Price Prediction Project, where we teach machines to understand what makes a house worth the price tag! If only predicting the housing market in real life were this simple, right? This project showcases how we can use machine learning to estimate house prices with Linear Regression and Random Forest models.
 
-📊 ## Project Overview
+## 📊 ## Project Overview
 
 What's Going On?
 Our goal is to predict house prices based on historical data and a mix of variables like size, location, and a sprinkle of mathematical magic. This project uses a well-known public housing dataset to bring data science to life, transforming numbers into insights that even real estate agents might envy (if only a little).
