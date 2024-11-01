@@ -1,4 +1,4 @@
-Real Estate Data Analysis with SQL: A Journey into Property Prices & Trends
+##Real Estate Data Analysis with SQL: A Journey into Property Prices & Trends
 
 Project Overview
 Welcome to a deep dive into the world of real estate data! Using a publicly available dataset, this project takes us on a journey to uncover trends, pricing insights, and hidden gems in the property market. Through a series of carefully crafted SQL queries, we analyze everything from average prices to location popularity, creating a comprehensive snapshot of the market. This project doesn’t just crunch numbers; it digs up stories behind properties, from affordable suburban finds to premium city hotspots.
