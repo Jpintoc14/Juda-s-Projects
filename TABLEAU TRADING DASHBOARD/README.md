@@ -24,7 +24,7 @@ Performance Over Time: A line chart visualizing trading performance.
 Price Movement Heatmap: A heatmap highlighting trading days with the most significant price changes.
 Interactive Filters: Allow users to filter data by date, asset type, or trading volume.
 
-![TABLEAU TRADING DASHBOARD IMAGES ](Downloads/TABLEAU_TRADING_DASHBOARD_IMAGES.pdf)
+![TABLEAU TRADING DASHBOARD IMAGES ](TABLEAUTRADINGDASHBOARDIMAGES/TABLEAU_TRADING_DASHBOARD_IMAGES.pdf)
 
 
 💡 Insights and Takeaways
