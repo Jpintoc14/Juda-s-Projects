@@ -32,13 +32,14 @@ The dashboard includes:
 Interactive Filters: Slice and dice data by gender, income, employment type, and more.
 Dynamic Charts: Easy-to-understand bar charts, line graphs, and pie charts showing the approval trends and applicant breakdowns.
 Key Performance Indicators (KPIs): Quick overview of the average approval rates and critical risk factors.
-🔧 ETL Process
+
+## 🔧 ETL Process
 
 Before the data made its way to the dashboard, an ETL process was performed using Python. This involved:
 
 Extracting: Data collected from public sources and company records.
 Transforming: Data cleaning, feature engineering, and ensuring data types matched Power BI requirements.
 Loading: The processed data was fed into Power BI for visualization and further analysis.
-🤖 Fun Fact
 
+## 🤖 Fun Fact
 Building this dashboard felt like training a virtual loan officer that never sleeps, doesn’t judge your shoes, and won’t ask why you really need that vacation loan.
